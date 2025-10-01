@@ -1,7 +1,5 @@
 ### hello i love programming and kittens
 
-
-### technologies
 [ [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat)](https://dotnet.microsoft.com/)
 [![MonoGame](https://img.shields.io/badge/MonoGame-E73C00?style=flat)](https://www.monogame.net/)
